@@ -1,0 +1,11 @@
+{
+    "breakfast": 
+      [
+          {"name": "Eggs","price": "$5.69", "calories": 500},
+          {"name": "Bacon","price": "$16.95", "calories": 650},
+          {"name": "Pancakes","price": "$19.95", "calories": 700},
+          {"name": "Waffles","price": "$20.95", "calories": 750},
+          {"name": "French Toast","price": "$21.95", "calories": 800},
+          {"name": "Sausage","price": "$11.95", "calories": 550}
+    ]
+  }

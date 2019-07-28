@@ -1,0 +1,10 @@
+{
+    "dinner": 
+      [
+          {"name": "Steak","price": "$26.95", "calories": 750},
+          {"name": "Pasta","price": "$16.95", "calories": 650},
+          {"name": "Lobster","price": "$29.95", "calories": 800},
+          {"name": "Chicken","price": "$15.95", "calories": 500},
+          {"name": "Mashed Potatoes","price": "$11.95", "calories": 800}
+      ]
+  }

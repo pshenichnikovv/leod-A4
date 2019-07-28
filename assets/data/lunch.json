@@ -1,0 +1,11 @@
+{
+    "lunch": 
+      [
+          {"name": "Ham Sandwhich","price": "$5.69", "calories": 450},
+          {"name": "Shawarma","price": "$6.95", "calories": 500},
+          {"name": "Pizza","price": "$19.95", "calories": 700},
+          {"name": "Salad","price": "$8.95", "calories": 350},
+          {"name": "Soup","price": "$6.95", "calories": 350},
+          {"name": "Panzeroti","price": "$11.95", "calories": 350}
+    ]
+  }
